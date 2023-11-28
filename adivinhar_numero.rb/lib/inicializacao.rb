@@ -6,7 +6,9 @@ class Inicializacao
         4.times do |i| 
         sleep 1
         print "."
-        end 
+    end 
         puts "."
+
+        system('clear')
     end 
 end 
